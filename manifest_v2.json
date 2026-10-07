@@ -1,0 +1,60 @@
+{
+  "item": {
+    "id": "com.wrist.fishing",
+    "restype": "quick_app",
+    "name": "腕上钓客",
+    "description": "腕上钓客\n \n一款专为小米Vela手环打造、轻量耐玩的字符风钓鱼休闲游戏。\n✅ 极致小巧\n不包含任何图片、音频资源，所有画面由文字字符渲染，安装包仅约210KB，节省宝贵的快应用分区空间，大幅避免存储不足报错。\n \n✅ 全机型自动适配\n自动识别屏幕尺寸，同时兼容：\n \n- 胶囊长屏：小米手环9、10、11（窄长屏幕，文字自动压缩，不会裁切）\n​\n- 矩形大屏：小米手环9 Pro、10 Pro（界面宽松，字号放大，观感更好）\n支持触屏点击操作，操作简单，单手就能玩。\n \n✅ 简单又耐玩的钓鱼玩法\n \n1. 点击抛竿，随机等待1～8秒鱼咬钩；\n​\n2. 看到浮漂下沉提示，立刻点击提竿，时机合适即可上鱼，慢了就会跑鱼；\n​\n3. 鱼种分5档：小鱼、鲫鱼、鲤鱼、草鱼、稀有锦鲤，越稀有奖励金币越高；\n​\n4. 金币用来升级钓竿，等级越高，大鱼、稀有鱼上钩概率越高；\n​\n5. 进度本地自动存档，退出手环、重启设备，渔获、金币、钓竿等级都会保留。\n \n✅ 安全纯净\n完全离线运行，不需要网络，没有广告，不会上传任何个人数据。仅申请本地存储权限用于保存游戏存档。",
+    "preview": [
+      "media/1000060757.png"
+    ],
+    "icon": "media/1000060769.webp",
+    "cover": "media/1000060779.jpg",
+    "author": [
+      {
+        "name": "3984499672",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10nfc": {
+      "version": "1.1.0",
+      "file_name": "downloads/code_20261007.html",
+      "versionCode": 1
+    },
+    "xmb10": {
+      "version": "1.10",
+      "file_name": "downloads/code_20261007.html",
+      "versionCode": 1
+    },
+    "xmb10p": {
+      "version": "1.1.0",
+      "file_name": "downloads/code_20261007.html",
+      "versionCode": 1
+    },
+    "xmb11": {
+      "version": "1.1.0",
+      "file_name": "downloads/code_20261007.html",
+      "versionCode": 1
+    },
+    "xmb11nfc": {
+      "version": "1.1.0",
+      "file_name": "downloads/code_20261007.html",
+      "versionCode": 1
+    },
+    "xmb9": {
+      "version": "1.1.0",
+      "file_name": "downloads/code_20261007.html",
+      "versionCode": 1
+    },
+    "xmb9p": {
+      "version": "1.1.0",
+      "file_name": "downloads/code_20261007.html",
+      "versionCode": 1
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
